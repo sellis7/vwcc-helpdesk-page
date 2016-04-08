@@ -10,6 +10,8 @@ All initial HTML code and website elements were located via the page source of V
 and combed through to eliminate and refactor non-essential content for this project. Then JQuery features and functionality 
 were coded in, as jointly decided upon and determined necessary. 
 
+View the project via GitHub-Pages [here](http://sellis7.github.io/vwcc-helpdesk-page)
+<hr />
 ##### Features include (starting from top of web page):
 * Phone directory link to all college staff and personnel (intentionally blank)
 * Link to chat application launched in separate, smaller window  
